@@ -2,6 +2,7 @@ import os
 
 # Limpa o termina.
 os.system('cls')
+55
 
 # ENTRADA.
 print('= SOLICITANDO DADOS =')
